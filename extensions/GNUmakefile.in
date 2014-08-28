@@ -12,6 +12,7 @@ libexecdir   = @libexecdir@
 xtlibdir     = @xtlibdir@
 
 CC                 = @CC@
+AR                 = @AR@
 CCLD               = ${CC}
 CFLAGS             = @CFLAGS@
 CPPFLAGS           = @CPPFLAGS@
